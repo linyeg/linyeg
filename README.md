@@ -5,7 +5,7 @@
 🎧 Currently working on: [Portafolio](#)
 
 🚀 Skills: HTML | CSS | JavaScript | React | Git  
-🧠 Learning: TypeScript & animations with Framer Motion  
+🧠 Learning: TypeScript & React  
 📬 Reach me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lizeth-estrada-gallardo/)
 
